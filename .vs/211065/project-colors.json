@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d89eb9af-b224-4123-a26f-e1ecfb402e74": {
+      "ProjectGuid": "d89eb9af-b224-4123-a26f-e1ecfb402e74",
+      "DisplayName": "211065",
+      "ColorIndex": 0
+    },
+    "98a3fd6d-80e9-41db-86ac-cb33d98c360f": {
+      "ProjectGuid": "98a3fd6d-80e9-41db-86ac-cb33d98c360f",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "b0ea9fe2-6e6d-4cb6-b55d-385aafdf2dc5": {
+      "ProjectGuid": "b0ea9fe2-6e6d-4cb6-b55d-385aafdf2dc5",
+      "DisplayName": "WinFormsApp2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
